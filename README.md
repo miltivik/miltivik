@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @miltivik<br>👀 I’m interested in programming, Hacking Ethical, UI Desing, Web Developer<br>🌱 I’m currently learning Python, React, Html, css (yeah im new)<br>📫 How to reach me discord:cazadordetetas<br>😄 Pronouns: he
+👋 Hi, I’m @miltivik<br>👀 I’m interested in programming, Hacking Ethical, UI Desing, Web Developer<br>🌱 I’m currently learning Python, React, Java <br>📫 How to reach me discord:cazadordetetas<br>😄 Pronouns: he
 
 
 ## 🌐 Socials:
