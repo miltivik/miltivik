@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on **Argus Box**
+- 🔭 I’m currently working on [Argus Box](https://github.com/miltivik/argus-box)
 
 - 🌱 I’m currently learning **Python and React**
 
